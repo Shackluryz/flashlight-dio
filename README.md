@@ -1,4 +1,4 @@
-# flashlight-dio
+# Flashlight
 
 Desafio dio: Construido um app usando o sensor de movimento com React Native
 
